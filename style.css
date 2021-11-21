@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+     
+}
+section{
+    height: 500px;
+}
+img{
+    width: 100%;
+}
+.name-highlight{
+    color: rgb(245, 41, 184);
+    font-size: 38px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%; 
+}
+
+
+.top-area{
+    background-image: url('images/header-bg.png');
+   background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+
+
+.aling-set{
+    margin-top: 12%;
+    margin-left: 10%;
+}
+
+.link-me{
+  
+    background-color: rgb(245, 35, 192);
+    text-decoration: none;
+    color: white;
+    padding: 15px 20px;
+}
+.link-me-biography{
+  
+    background-color: rgb(95, 41, 245);
+    text-decoration: none;
+    color: white;
+    padding: 15px 20px;
+}
+
+.biography-area{
+    background-image: url('images/biography-bg.png');
+   background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+
+.latest-work-area{
+    background-image: url('images/latest-work-bg.png');
+    background-size: 100%;
+     background-repeat: no-repeat;
+}
+.single-work{
+     
+    text-align: center;
+}
+ .single-work img{
+    
+    width: 30%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 15px;
+ }
+ .fotter{
+     text-align: center;
+ }
